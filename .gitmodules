@@ -1,3 +1,6 @@
 [submodule "repo1"]
 	path = repo1
 	url = https://github.com/angelopoole/repo1.git
+[submodule "js-testing-fundamentals"]
+	path = js-testing-fundamentals
+	url = https://github.com/angelopoole/js-testing-fundamentals.git
